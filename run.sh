@@ -64,6 +64,6 @@ publishDB() {
 }
 
 updateDB "fitbit.db"
-commitDB "fitbit.db"
 publishDB "fitbit.db" "jamesmstone-fitbit"
+commitDB "fitbit.db" || true
 
