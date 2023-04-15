@@ -1,13 +1,12 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -e # Exit with nonzero exit code if anything fails
 set -o pipefail
 set -o errexit
 set -x
 
-pip install fitbit-to-sqlite
-pgntosqlite() {
-  docker build -t pgntosqlite .
-  docker run -v"$(pwd)":/wd -w/wd -u "$(id -u):$(id -g)" pgntosqlite "$@"
+fitbit-to-sqlite() {
+  docker build -t fitbit-to-sqlite .
+  docker run -v"$(pwd)":/wd -w/wd -u "$(id -u):$(id -g)" fitbit-to-sqlite "$@"
 }
 
 datasette() {
@@ -23,7 +22,11 @@ datasette() {
 
 updateDB() {
   local db="$1"
-  pgntosqlite -u BenJStone -o "$db" fetch lichess
+  fitbit-to-sqlite resting-heart-rate "$db" MyFitbitData.zip
+  fitbit-to-sqlite distance "$db" MyFitbitData.zip
+  fitbit-to-sqlite minutes-active "$db" MyFitbitData.zip
+  fitbit-to-sqlite exercise "$db" MyFitbitData.zip
+  fitbit-to-sqlite heart-rate-zones "$db" MyFitbitData.zip
 }
 
 commitDB() {
@@ -46,15 +49,6 @@ commitDB() {
   git push origin "$dbBranch" -f
 }
 
-getDB() {
-  local dbBranch="db"
-  local db="$1"
-  git fetch origin "$dbBranch"
-  git ls-tree -r --name-only "origin/$dbBranch" |
-    sort |
-    xargs -I % -n1 git show "origin/$dbBranch:%" |
-    tar -zxf - || return 0
-}
 
 publishDB() {
   local db=$1
@@ -69,7 +63,7 @@ publishDB() {
     --install=datasette-cluster-map
 }
 
-#getDB "chess.db" || true
-updateDB "chess.db"
-#commitDB "chess.db"
-#publishDB "chess.db" "jamesmstone-chess"
+updateDB "fitbit.db"
+commitDB "fitbit.db"
+publishDB "fitbit.db" "jamesmstone-fitbit"
+

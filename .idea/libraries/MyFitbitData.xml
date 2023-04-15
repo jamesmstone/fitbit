@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyFitbitData">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyFitbitData.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
