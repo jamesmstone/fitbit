@@ -1,0 +1,6 @@
+timestamp,event_name,email,location,ip,outcome,reason,application,device_info
+Fri Apr 14 22:10:18 UTC 2023,Login,jamesmstone@hotmail.com,"Melbourne, VIC, Australia",103.12.191.78,SUCCESS,,Fitbit Accounts,"os_name: Android,os_version: 13,browser_name: Firefox,browser_version: 111.0,device_name: Android"
+Fri Mar 31 13:31:19 UTC 2023,Login,jamesmstone@hotmail.com,"New York, NY, United States",86.111.230.230,FAIL,INVALID_PASSWORD,Fitbit Accounts,"os_name: Windows,os_version: 7,browser_name: Chrome,browser_version: 102.0.5005.63,device_name: Windows"
+Wed Mar 01 20:50:13 UTC 2023,Login,jamesmstone@hotmail.com,"Fremont, CA, United States",154.13.51.194,FAIL,INVALID_PASSWORD,Fitbit Accounts,"os_name: Windows,os_version: 7,browser_name: Chrome,browser_version: 102.0.5005.63,device_name: Windows"
+Wed Feb 08 16:32:18 UTC 2023,Login,jamesmstone@hotmail.com,"Boulder, CO, United States",202.9.63.29,FAIL,INVALID_PASSWORD,Fitbit Accounts,"os_name: Windows,os_version: 7,browser_name: Chrome,browser_version: 102.0.5005.63,device_name: Windows"
+Thu Feb 02 16:19:53 UTC 2023,Login,jamesmstone@hotmail.com,"New York, NY, United States",195.140.176.237,FAIL,INVALID_PASSWORD,Fitbit Accounts,"os_name: Windows,os_version: 7,browser_name: Chrome,browser_version: 102.0.5005.63,device_name: Windows"

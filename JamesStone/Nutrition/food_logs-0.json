@@ -1,0 +1,801 @@
+[{
+  "logId" : 13468977367,
+  "loggedFood" : {
+    "foodId" : 535233743,
+    "locale" : "en_AU",
+    "name" : "Coffee with Skim Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7144,7145,7146,7148,68728,68736,68336,7147,70250,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 7144,
+      "name" : "coffee cup (6 fl oz)",
+      "plural" : "coffee cup (6 fl oz)"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-02-15",
+  "favorite" : false
+},{
+  "logId" : 13468900190,
+  "loggedFood" : {
+    "foodId" : 537864076,
+    "locale" : "en_AU",
+    "name" : "Muesli",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 289,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-02-15",
+  "favorite" : false
+},{
+  "logId" : 13460095541,
+  "loggedFood" : {
+    "foodId" : 536486277,
+    "locale" : "en_AU",
+    "name" : "Chicken Fried Rice",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7295,71073,91,256,279,226,180,147,389],
+    "calories" : 371,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 7295,
+      "name" : "serving (149g)",
+      "plural" : "serving (149g)"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-02-14",
+  "favorite" : false
+},{
+  "logId" : 13460903659,
+  "loggedFood" : {
+    "foodId" : 535242776,
+    "locale" : "en_AU",
+    "name" : "Coffee Scroll",
+    "brand" : "Brumby's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,7123,226,180,147,389],
+    "calories" : 273,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-02-14",
+  "favorite" : false
+},{
+  "logId" : 13459152414,
+  "loggedFood" : {
+    "foodId" : 535247391,
+    "locale" : "en_AU",
+    "name" : "Flat White Mug",
+    "brand" : "Muffin Break",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 171,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-02-14",
+  "favorite" : false
+},{
+  "logId" : 13403326315,
+  "loggedFood" : {
+    "foodId" : 537864076,
+    "locale" : "en_AU",
+    "name" : "Muesli",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 289,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-02-09",
+  "favorite" : false
+},{
+  "logId" : 13397020458,
+  "loggedFood" : {
+    "foodId" : 541891393,
+    "locale" : "en_AU",
+    "name" : "Tuna Sushi",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6686,6808,69235,91,256,279,226,180,147,389],
+    "calories" : 46,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6686,
+      "name" : "piece",
+      "plural" : "piece"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-02-08",
+  "favorite" : false
+},{
+  "logId" : 13396548686,
+  "loggedFood" : {
+    "foodId" : 536493098,
+    "locale" : "en_AU",
+    "name" : "Salmon Sushi",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6686,6808,69235,91,256,279,226,180,147,389],
+    "calories" : 48,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6686,
+      "name" : "piece",
+      "plural" : "piece"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-02-08",
+  "favorite" : false
+},{
+  "logId" : 13394835546,
+  "loggedFood" : {
+    "foodId" : 536492340,
+    "locale" : "en_AU",
+    "name" : "Vegetables and Rice Paper Roll with Meat and/or Shrimp",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [13126,7055,73005,71185,91,256,279,226,180,147,389],
+    "calories" : 164,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 13126,
+      "name" : "roll (4-1/4\" x 1-1/2\" dia)",
+      "plural" : "roll (4-1/4\" x 1-1/2\" dia)"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-02-08",
+  "favorite" : false
+},{
+  "logId" : 13394922075,
+  "loggedFood" : {
+    "foodId" : 535233743,
+    "locale" : "en_AU",
+    "name" : "Coffee with Skim Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7144,7145,7146,7148,68728,68736,68336,7147,70250,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 5,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 7144,
+      "name" : "coffee cup (6 fl oz)",
+      "plural" : "coffee cup (6 fl oz)"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-02-08",
+  "favorite" : false
+},{
+  "logId" : 13395075977,
+  "loggedFood" : {
+    "foodId" : 537864076,
+    "locale" : "en_AU",
+    "name" : "Muesli",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 289,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-02-08",
+  "favorite" : false
+},{
+  "logId" : 12560639023,
+  "loggedFood" : {
+    "foodId" : 537864076,
+    "locale" : "en_AU",
+    "name" : "Muesli",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 289,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2017-11-04",
+  "favorite" : false
+},{
+  "logId" : 10390288434,
+  "loggedFood" : {
+    "foodId" : 536499561,
+    "locale" : "en_AU",
+    "name" : "Veggie Burgers",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7181,226,180,147,389],
+    "calories" : 124,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 7181,
+      "name" : "pattie",
+      "plural" : "pattie"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2017-03-21",
+  "favorite" : false
+},{
+  "logId" : 10390644680,
+  "loggedFood" : {
+    "foodId" : 536486999,
+    "locale" : "en_AU",
+    "name" : "Mocha Coffee",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6760,12475,6586,6584,74430,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 394,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6760,
+      "name" : "medium",
+      "plural" : "medium"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2017-03-21",
+  "favorite" : false
+},{
+  "logId" : 10388140829,
+  "loggedFood" : {
+    "foodId" : 536481607,
+    "locale" : "en_AU",
+    "name" : "Egg, Cheese and Bacon on Bagel",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6642,11374,7268,68400,226,180,147,389],
+    "calories" : 672,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6642,
+      "name" : "sandwich",
+      "plural" : "sandwich"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2017-03-21",
+  "favorite" : false
+},{
+  "logId" : 9992767066,
+  "loggedFood" : {
+    "foodId" : 537864076,
+    "locale" : "en_AU",
+    "name" : "Muesli",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 289,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2017-02-13",
+  "favorite" : false
+},{
+  "logId" : 9939324620,
+  "loggedFood" : {
+    "foodId" : 537864076,
+    "locale" : "en_AU",
+    "name" : "Muesli",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 289,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2017-02-09",
+  "favorite" : false
+},{
+  "logId" : 9938951680,
+  "loggedFood" : {
+    "foodId" : 535250964,
+    "locale" : "en_AU",
+    "name" : "Beef Stir-Fry Heart Smart",
+    "brand" : "Woolworths",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 122,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2017-02-08",
+  "favorite" : false
+},{
+  "logId" : 9939914170,
+  "loggedFood" : {
+    "foodId" : 535246765,
+    "locale" : "en_AU",
+    "name" : "Pad Thai Chicken",
+    "brand" : "Noodle Box",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 179,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2017-02-08",
+  "favorite" : false
+},{
+  "logId" : 9924880152,
+  "loggedFood" : {
+    "foodId" : 537864076,
+    "locale" : "en_AU",
+    "name" : "Muesli",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 289,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2017-02-08",
+  "favorite" : false
+},{
+  "logId" : 9925112485,
+  "loggedFood" : {
+    "foodId" : 535234323,
+    "locale" : "en_AU",
+    "name" : "Big Mac",
+    "brand" : "McDonald's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,6675],
+    "calories" : 493,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2017-02-07",
+  "favorite" : false
+},{
+  "logId" : 9915684532,
+  "loggedFood" : {
+    "foodId" : 536502186,
+    "locale" : "en_AU",
+    "name" : "Fajita with Beef and Vegetables",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6821,7858,91,256,279,226,180,147,389],
+    "calories" : 471,
+    "amount" : 1.25,
+    "unit" : {
+      "id" : 6821,
+      "name" : "tortilla",
+      "plural" : "tortilla"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2017-02-07",
+  "favorite" : false
+},{
+  "logId" : 9916371139,
+  "loggedFood" : {
+    "foodId" : 535247391,
+    "locale" : "en_AU",
+    "name" : "Flat White Mug",
+    "brand" : "Muffin Break",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 171,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2017-02-07",
+  "favorite" : false
+},{
+  "logId" : 9915358804,
+  "loggedFood" : {
+    "foodId" : 536493098,
+    "locale" : "en_AU",
+    "name" : "Salmon Sushi",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6686,6808,69235,91,256,279,226,180,147,389],
+    "calories" : 48,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6686,
+      "name" : "piece",
+      "plural" : "piece"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2017-02-07",
+  "favorite" : false
+},{
+  "logId" : 9916829916,
+  "loggedFood" : {
+    "foodId" : 536492340,
+    "locale" : "en_AU",
+    "name" : "Vegetables and Rice Paper Roll with Meat and/or Shrimp",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [13126,7055,73005,71185,91,256,279,226,180,147,389],
+    "calories" : 246,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 13126,
+      "name" : "roll (4-1/4\" x 1-1/2\" dia)",
+      "plural" : "roll (4-1/4\" x 1-1/2\" dia)"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2017-02-07",
+  "favorite" : false
+},{
+  "logId" : 9916819995,
+  "loggedFood" : {
+    "foodId" : 537864076,
+    "locale" : "en_AU",
+    "name" : "Muesli",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 289,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2017-02-07",
+  "favorite" : false
+},{
+  "logId" : 7429129681,
+  "loggedFood" : {
+    "foodId" : 535250964,
+    "locale" : "en_AU",
+    "name" : "Beef Stir-Fry Heart Smart",
+    "brand" : "Woolworths",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 122,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2016-05-12",
+  "favorite" : false
+},{
+  "logId" : 7428889779,
+  "loggedFood" : {
+    "foodId" : 536492340,
+    "locale" : "en_AU",
+    "name" : "Vegetables and Rice Paper Roll with Meat and/or Shrimp",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [13126,7055,73005,71185,91,256,279,226,180,147,389],
+    "calories" : 82,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 13126,
+      "name" : "roll (4-1/4\" x 1-1/2\" dia)",
+      "plural" : "roll (4-1/4\" x 1-1/2\" dia)"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2016-05-12",
+  "favorite" : false
+},{
+  "logId" : 7429212813,
+  "loggedFood" : {
+    "foodId" : 536488373,
+    "locale" : "en_AU",
+    "name" : "Coffee",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7146,7144,7148,68336,68728,70250,12721,12722,12723,12724,12725,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 2,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 7144,
+      "name" : "coffee cup (6 fl oz)",
+      "plural" : "coffee cup (6 fl oz)"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2016-05-12",
+  "favorite" : false
+},{
+  "logId" : 7428444440,
+  "loggedFood" : {
+    "foodId" : 535242076,
+    "locale" : "en_AU",
+    "name" : "Mountain Muesli",
+    "brand" : "Goldenvale",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,91,256,279,226,180,147,389],
+    "calories" : 350,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2016-05-12",
+  "favorite" : false
+},{
+  "logId" : 7428371169,
+  "loggedFood" : {
+    "foodId" : 536491835,
+    "locale" : "en_AU",
+    "name" : "Pizza with Meat and Vegetables",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6770,6771,6772,13037,13086,13038,6773,6774,6775,6776,13040,6777,6590,6778,13093,13094,13041,13039,68384,68385,72887,72888,72889,68386,68387,72890,69775,72886,72892,72893,226,180,147,389],
+    "calories" : 828,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 6770,
+      "name" : "piece (1/8 of 12\" dia)",
+      "plural" : "piece (1/8 of 12\" dia)"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2016-05-11",
+  "favorite" : false
+},{
+  "logId" : 7416442915,
+  "loggedFood" : {
+    "foodId" : 536481290,
+    "locale" : "en_AU",
+    "name" : "Ham and Cheese Sandwich",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6642,226,180,147,389],
+    "calories" : 352,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6642,
+      "name" : "sandwich",
+      "plural" : "sandwich"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2016-05-11",
+  "favorite" : false
+},{
+  "logId" : 7413268425,
+  "loggedFood" : {
+    "foodId" : 540355488,
+    "locale" : "en_AU",
+    "name" : "Chicken Flavoured Instant Noodles",
+    "brand" : "Woolworths Home Brand",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,6602,226,180,147,389],
+    "calories" : 416,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2016-05-11",
+  "favorite" : false
+},{
+  "logId" : 7412222597,
+  "loggedFood" : {
+    "foodId" : 535242076,
+    "locale" : "en_AU",
+    "name" : "Mountain Muesli",
+    "brand" : "Goldenvale",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,91,256,279,226,180,147,389],
+    "calories" : 350,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2016-05-11",
+  "favorite" : false
+},{
+  "logId" : 6520384288,
+  "loggedFood" : {
+    "foodId" : 536484728,
+    "locale" : "en_AU",
+    "name" : "Rice Crackers",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6879,6888,7246,91,256,279,226,180,147,389],
+    "calories" : 60,
+    "amount" : 5.0,
+    "unit" : {
+      "id" : 6879,
+      "name" : "cracker",
+      "plural" : "cracker"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2016-02-18",
+  "favorite" : false
+},{
+  "logId" : 6520535976,
+  "loggedFood" : {
+    "foodId" : 536486968,
+    "locale" : "en_AU",
+    "name" : "Rice with Vegetables",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [12536,72891,91,256,279,226,180,147,389],
+    "calories" : 170,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2016-02-18",
+  "favorite" : false
+},{
+  "logId" : 6517399368,
+  "loggedFood" : {
+    "foodId" : 536486277,
+    "locale" : "en_AU",
+    "name" : "Chicken Fried Rice",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7295,71073,91,256,279,226,180,147,389],
+    "calories" : 371,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 7295,
+      "name" : "serving (149g)",
+      "plural" : "serving (149g)"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2016-02-18",
+  "favorite" : false
+},{
+  "logId" : 6516917270,
+  "loggedFood" : {
+    "foodId" : 536501150,
+    "locale" : "en_AU",
+    "name" : "Muffin",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [6760,7063,68990,7239,6586,6584,226,180,147,389],
+    "calories" : 321,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 6760,
+      "name" : "medium",
+      "plural" : "medium"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2016-02-18",
+  "favorite" : false
+},{
+  "logId" : 6516799829,
+  "loggedFood" : {
+    "foodId" : 541889833,
+    "locale" : "en_AU",
+    "name" : "Coffee with Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [7144,7145,7146,7148,68728,68736,68336,7147,70250,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 6,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 7144,
+      "name" : "coffee cup (6 fl oz)",
+      "plural" : "coffee cup (6 fl oz)"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2016-02-18",
+  "favorite" : false
+},{
+  "logId" : 6515804965,
+  "loggedFood" : {
+    "foodId" : 535242076,
+    "locale" : "en_AU",
+    "name" : "Mountain Muesli",
+    "brand" : "Goldenvale",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,91,256,279,226,180,147,389],
+    "calories" : 350,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2016-02-18",
+  "favorite" : false
+}]
