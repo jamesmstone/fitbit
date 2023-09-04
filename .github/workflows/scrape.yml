@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Update and Build
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
