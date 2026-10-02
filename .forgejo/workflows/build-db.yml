@@ -1,0 +1,21 @@
+name: Build DB
+
+# The export is a committed one-off zip, not a live API, so there is nothing a
+# cron could pick up; rebuilds only matter when a new export lands.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: native
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v7
+
+      - name: Build database
+        run: nix build .#default -L
+
+      - name: Publish database
+        run: install -Dm644 result/fitbit.db /var/lib/datasette-sites/fitbit/fitbit.db

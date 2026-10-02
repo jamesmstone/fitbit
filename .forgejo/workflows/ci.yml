@@ -1,0 +1,15 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  flake-check:
+    runs-on: native
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v7
+
+      - name: Run Nix flake check
+        run: nix flake check -L
