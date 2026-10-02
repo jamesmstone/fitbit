@@ -18,4 +18,9 @@ jobs:
         run: nix build .#default -L
 
       - name: Publish database
-        run: install -Dm644 result/fitbit.db /var/lib/datasette-sites/fitbit/fitbit.db
+        # Rename rather than write in place: Datasette holds the database
+        # open, and install(1) truncates, so a reader can see a torn file
+        # mid-write. The rename is atomic and still trips the path unit.
+        run: |-
+          install -Dm644 result/fitbit.db /var/lib/datasette-sites/fitbit/.fitbit.db.new
+          mv -f /var/lib/datasette-sites/fitbit/.fitbit.db.new /var/lib/datasette-sites/fitbit/fitbit.db
